@@ -4,7 +4,7 @@ import LotteryGame from "./Lottery";
 function App() {
   return (
     <>
-      <LotteryGame />
+      <LotteryGame n={3} winningsum={15} />
     </>
   );
 }
