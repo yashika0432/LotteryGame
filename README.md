@@ -1,18 +1,24 @@
-# React + Vite
+## 🎰 React Lottery Game
+A simple Lottery Game built using React where players generate random numbers and check if they match the winning criteria.
+This project demonstrates React state management, component interaction, and random number generation.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 📌 About the Project
+This React application simulates a lottery system where a random set of numbers is generated each time the user plays. If the generated numbers satisfy the winning condition, the player wins the lottery.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The project was built to practice:
+- React components
+- useState hook
+- event handling
+- conditional rendering
+- random number generation
 
-## React Compiler
+---
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
-
-Note: This will impact Vite dev & build performances.
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+- 🎲 Generate random lottery numbers
+- 🎯 Winning condition check
+- ⚛️ Built with React functional components
+- 🔄 Instant UI updates using React state
+- 🎨 Simple and clean UI
