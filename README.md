@@ -42,3 +42,11 @@ The project was built to practice:
 - JavaScript (ES6+)
 - CSS
 - Vite / Create React App
+
+---
+
+## 🎮 How the Game Works
+1. Click the Generate Lottery Ticket button
+2. The app generates random numbers
+3. The system checks the winning condition
+4. If the condition is satisfied, the player wins the lottery
