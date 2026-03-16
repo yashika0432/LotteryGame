@@ -22,3 +22,11 @@ The project was built to practice:
 - ⚛️ Built with React functional components
 - 🔄 Instant UI updates using React state
 - 🎨 Simple and clean UI
+
+---
+
+## 🛠️ Tech Stack
+- React
+- JavaScript (ES6+)
+- CSS
+- Vite / Create React App
