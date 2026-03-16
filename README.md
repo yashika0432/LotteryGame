@@ -25,6 +25,18 @@ The project was built to practice:
 
 ---
 
+## 🚀 Installation
+1. Clone the repository
+   ```git clone https://github.com/yourusername/react-lottery-game.git```
+2. Navigate to the project folder
+   ```cd react-lottery-game```
+3. Install dependencies
+   ```npm install```
+4. Run the project
+   ```npm run dev```
+
+---
+
 ## 🛠️ Tech Stack
 - React
 - JavaScript (ES6+)
