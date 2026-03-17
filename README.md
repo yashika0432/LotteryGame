@@ -45,6 +45,13 @@ The project was built to practice:
 
 ---
 
+## 💡 Learning Objectives
+- Using React state (useState)
+- Handling user events
+- Implementing random number logic
+- Building interactive UI with React
+---
+
 ## 🎮 How the Game Works
 1. Click the Generate Lottery Ticket button
 2. The app generates random numbers
