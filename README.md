@@ -29,7 +29,7 @@ The project was built to practice:
 1. Clone the repository
    ```git clone https://github.com/yashika0432/LotteryGame```
 2. Navigate to the project folder
-   ```cd react-lottery-game```
+   ```cd LOTTERYGAME-REACT```
 3. Install dependencies
    ```npm install```
 4. Run the project
